@@ -1,6 +1,6 @@
 # A Deep Residual Network for Geometric Decontouring
 
-<img src="./paper.png" width="1000px"/>
+<img src="./paper.png" width="900px"/>
 
 ## Introduction
 
@@ -42,6 +42,25 @@ Figure 3: Some samples of our Height-Grayscale Dataset. The images shown in the 
 
 ```
 
-
-
 The full dataset will be released soon.  
+
+
+## Citation
+
+If you find our work or Dataset useful to your research, please consider citing:
+
+
+```bash
+@article {pg2020GDCNet,
+journal = {Computer Graphics Forum},
+title = {A Deep Residual Network for Geometric Decontouring},
+author = {Ji, Zhongping and Zhou, Chengqin and Zhang, Qiankan and Zhang, Yu-Wei and Wang, Wenping},
+volume = {39},
+number = {7},
+pages = {27--41},
+year = {2020},
+publisher = {The Eurographics Association and John Wiley & Sons Ltd.},
+ISSN = {1467-8659},
+DOI = {10.1111/cgf.14124}
+}
+```
