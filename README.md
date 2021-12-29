@@ -1,6 +1,6 @@
 # A Deep Residual Network for Geometric Decontouring
 
-<img src="./paper.png" width="700px"/>
+<img src="./paper.png" width="1000px"/>
 
 ## Introduction
 
